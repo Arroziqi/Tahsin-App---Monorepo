@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.pkmpm.tahsinapp"
     },
     "web": {
       "bundler": "metro",
@@ -45,6 +46,12 @@
         "projectId": "9125a317-fbe7-44a7-9871-b8dca40b7f70"
       }
     },
-    "owner": "arroziqi"
+    "owner": "arroziqi",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/9125a317-fbe7-44a7-9871-b8dca40b7f70"
+    }
   }
 }
